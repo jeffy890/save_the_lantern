@@ -1,7 +1,7 @@
 # save_the_lantern
-せまりくる敵からランタンをまもろう！
+せまりくるてきからランタンをまもろう！  
 wasdキーでどらごんをそうさ、spaceキーで火をとばそう！
 
 # requirements
-pyxel
+pyxel  
 PyxelUniversalFont
