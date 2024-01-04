@@ -2,7 +2,7 @@
 せまりくるてきからランタンをまもろう！  
 wasdキーでどらごんをそうさ、spaceキーで火をとばそう！
   
-![demo](demo.jpg "demo")
+![demo](demo.png "demo")
 
 # requirements
 pyxel  
