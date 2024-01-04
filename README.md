@@ -1,2 +1,7 @@
 # save_the_lantern
-pyxel game
+せまりくる敵からランタンをまもろう！
+wasdキーでどらごんをそうさ、spaceキーで火をとばそう！
+
+# requirements
+pyxel
+PyxelUniversalFont
